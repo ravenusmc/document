@@ -9,10 +9,12 @@ class DocsController < ApplicationController
   end 
 
   def new 
+    #This creates the association between documents and user.
     @doc = current_user.docs.build
   end 
 
   def create
+    #This creates the association between documents and user.
     @doc = current_user.docs.build(doc_params)
 
     if @doc.save

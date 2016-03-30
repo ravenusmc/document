@@ -1,3 +1,6 @@
 == README
 
-Well...this project was supposed to be a joke. On the Free Code Camp for Atlanta FB page I found a link to a free Udemy Rails course. I decided to give it a go and at first thought it was pretty basic. However, in going through this first project with the course, I have found that it is actually pretty good. The first thing that I enjoy is that the instructor does not scaffold. The second is that he uses HAML. So I am about half way through this project and hope to continue to learn more. 
+Well...this project was supposed to be a joke. On the Free Code Camp for Atlanta FB page I found a link to a free Udemy Rails course. I decided to give it a go and at first thought it was pretty basic. However, in going through this first project with the course, I have found that it is actually pretty good. The first thing that I enjoy is that the instructor does not scaffold. The second is that he uses HAML.
+
+The following GEMS are used:
+gem devise, simple_form, haml

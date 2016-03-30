@@ -4,3 +4,5 @@ Well...this project was supposed to be a joke. On the Free Code Camp for Atlanta
 
 The following GEMS are used:
 devise, simple_form, haml
+
+Project is done but may or may not post it to Heroku. 
